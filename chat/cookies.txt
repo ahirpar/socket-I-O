@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.codecanyon.net	TRUE	/	FALSE	1999999999	__cfduid	da90950da1789c08a0f9607399c63290f1538402128
+.preview.codecanyon.net	TRUE	/	FALSE	1999999999	referring_user	-1
+
